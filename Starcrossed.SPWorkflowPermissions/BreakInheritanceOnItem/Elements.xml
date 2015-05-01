@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="BreakInheritanceOnItem" Url="Workflows/BreakInheritanceOnItem">
+    <File Url="BreakInheritanceOnItem.xaml" Type="Ghostable" DoGUIDFixUp="TRUE" Path="BreakInheritanceOnItem\BreakInheritanceOnItem.xaml" />
+    <File Url="BreakInheritanceOnItem.actions4" Type="Ghostable" Path="BreakInheritanceOnItem\BreakInheritanceOnItem.actions4" />
+  </Module>
+</Elements>

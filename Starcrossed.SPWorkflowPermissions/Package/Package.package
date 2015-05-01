@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="56a92ccf-18f4-4b1e-b813-6bb93fb21298" solutionId="56a92ccf-18f4-4b1e-b813-6bb93fb21298" resetWebServer="false" sharePointProductVersion="15.0" name="SPAdminMenu2013Sandbox" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="613e0bd8-620a-46a8-a43b-d7f7830bd9a2" />
+  </features>
+</package>

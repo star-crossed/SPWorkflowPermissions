@@ -1,0 +1,5 @@
+﻿<Action Name="BreakInheritanceOnItem" ClassName="Starcrossed.SPWorkflowPermissions.BreakInheritanceOnItem" Category="Permissions Actions" AppliesTo="all">
+  <RuleDesigner Sentence="Enter sentence for workflow action">
+    <!-- Define the UI widgets SharePoint designer should use for configuring this action -->
+  </RuleDesigner>
+</Action>
